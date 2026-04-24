@@ -3,7 +3,7 @@ This project analyzes natural disaster risk across two U.S. states using data fr
 Method
 Data: NRI + SVI
 Tools: Python (Pandas, GeoPandas)
-Custom Risk = (0.5 EAL) + (0.4 SVI) − (0.1 Resilience)
+Custom Risk 
 Results
 NRI emphasizes economic loss
 Custom model increases risk in vulnerable areas
